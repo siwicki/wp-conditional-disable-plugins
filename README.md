@@ -25,4 +25,6 @@ If you want to disable all plugins use `all` inside an array:
         );
 ```
 
+Add the code inside `wp-content/mu-plugins/` 
+
 Enjoy debugging !
